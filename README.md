@@ -11,4 +11,9 @@ provide a wealth of helpful introductory teaching material and if you are able t
 requirements, then we give permission for those problems and their solutions to be discussed 
 elsewhere.
 
+<p>
+<p>
 
+#### Notes and Discussion:
+<b>Euler 5:</b> Found an answer in a
+total time of: 5.8583128452301025 seconds
